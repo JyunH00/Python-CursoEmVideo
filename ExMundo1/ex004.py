@@ -1,3 +1,5 @@
+#Escreva um programa que peça ao usuário escrever algo. Depois mostre seu tipo e algumas informações sobre o que foi digitado#
+
 algo = input('Digite algo: ')
 
 tipoalgo = type(algo)
