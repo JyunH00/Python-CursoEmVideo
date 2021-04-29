@@ -47,6 +47,7 @@ Para criar uma string utilizamos '' ou ""
 '''
 *** TODA STRING É IMUTÁVEL
 *** Lembrar dos comandos 'r...' ou 'l...'
+*** Sempre começamos a contar a partir do 0 em listas/matrizes, etc
 '''
 
 #### Prática ####
@@ -64,7 +65,6 @@ print(frase[1::2])
 print(frase[::2])
 print(frase.count('O'))
 print(frase.upper().count('O'))
-print(len(frase))
 print(frase.replace('Python', 'Android'))
 print('Curso' in frase)
 print(frase.find('Vídeo'))
