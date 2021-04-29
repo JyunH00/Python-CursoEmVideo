@@ -23,4 +23,4 @@ escolihdo = random.choice(lista)
 
 ### Print do resultado ###
 
-print('O aluno(a) escolhido(a) foi: {} '. format(escolihdo))
+print('O aluno(a) escolhido(a) foi: {} '.format(escolihdo))

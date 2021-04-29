@@ -1,5 +1,6 @@
 '''
-Exercício 13b: Crie um programa que mostre o preço de um produto, e dê desconto de 15% se for pago à vista e 8% de aumento se pago parcelado
+Exercício 13b: Crie um programa que mostre o preço de um produto, e dê desconto de 15% se for pago à vista e 8% de
+aumento se pago parcelado
 '''
 
 ##### Resolução #####
