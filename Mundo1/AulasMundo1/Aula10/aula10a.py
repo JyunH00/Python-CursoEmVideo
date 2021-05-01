@@ -15,7 +15,7 @@ Nessa aula, vamos aprender como utilizar estruturas condicionais simples e compo
         >>> if condição: bloco True
         >>> else: bloco False
     >>> Estrutura simples: apenas if
-    >>> Estrutura composta: apenas else
+    >>> Estrutura composta: if e else
     
 tempo = int(input('Quantos anos tem seu carro? '))
 
