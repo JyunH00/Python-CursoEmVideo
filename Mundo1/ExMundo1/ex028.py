@@ -9,7 +9,7 @@ O programa deverá escrever na tela se o seu usário venceu ou perdeu.
 
 from random import randint
 
-from time import sleep # Resolução do vídeo (DETALHE)
+from time import sleep # Resolução do víd
 
 print('-=-'*20)
 print('Estou pensando em um número entre 0 e 5...')
