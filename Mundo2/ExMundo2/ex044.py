@@ -44,7 +44,7 @@ if 1 <= opPag <= 4:
         print('Sua compra terá 10% de desconto')
         print('Sua compra de R${:.2f} vai custar R${:.2f} no final.'.format(valorP, vista))
     elif opPag == 2:
-        vistaC = valorO * 0.95
+        vistaC = valorP * 0.95
         print('Sua compra terá 5% de desconto')
         print('Sua compra de R${:.2f} vai custar R${:.2f} no final.'.format(valorP, vistaC))
     elif opPag == 3:
