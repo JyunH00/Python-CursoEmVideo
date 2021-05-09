@@ -10,6 +10,7 @@ imutáveis que permitem armazenar vários valores em uma mesma estrutura, acess�
         >>> lanche = 'hamburguer'
    
 ** Tuplas
+    >>> Utlizamos ()
     >>> Variável que guarda vários valores
     >>> Itens identificados por índices (0 -> ?)
     
