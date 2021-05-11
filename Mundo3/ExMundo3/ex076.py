@@ -20,8 +20,7 @@ prodPrecos = ('Lápis', 1.75,
               'Lapiseira', 5.99)
 
 print('\033[1m-\033[m' * 60)
-ListP = 'LISTAGEM DE PREÇOS'
-print('\033[1;31m{:^60}\033[m'.format(ListP))
+print(f'\033[1;31m{"LISTAGEM DE PREÇOS":^60}\033[m')
 print('\033[1m-\033[m' * 60)
 
 for pos, i in enumerate(prodPrecos):

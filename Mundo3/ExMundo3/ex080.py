@@ -38,9 +38,6 @@ for posL in range(0, 5):
         elif numI <= numLista[3]:
             numLista.insert(2, numI)
             print('Adicionado na posição 2 da lista...')
-        elif numI <= numLista[3]:
-            numLista.insert(3, numI)
-            print('Adicionado na posição 3 da lista...')
 print(numLista)
 
 '''
