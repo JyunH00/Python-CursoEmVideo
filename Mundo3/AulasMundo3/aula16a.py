@@ -8,6 +8,7 @@ imutáveis que permitem armazenar vários valores em uma mesma estrutura, acess�
     >>> TUPLAS, listas, dicionários
     >>> Não podemos atribuir múltiplos valores em variáveis simples
         >>> lanche = 'hamburguer'
+        >>> lanche = 'suco' -> lanche vira 'suco'
    
 ** Tuplas
     >>> Utlizamos ()

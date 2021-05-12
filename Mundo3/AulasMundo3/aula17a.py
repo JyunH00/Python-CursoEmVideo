@@ -8,6 +8,7 @@ permitem armazenar vários valores em uma mesma estrutura, acessíveis por chave
     >>> tuplas, LISTAS, dicionários
     >>> Não podemos atribuir múltiplos valores em variáveis simples
         >>> lanche = 'hamburguer'
+        >>> lanche = 'suco' -> lanche vira 'suco'
         
 ** Listas
     >>> Utilizamos [], list
