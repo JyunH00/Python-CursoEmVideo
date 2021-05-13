@@ -2,7 +2,7 @@
 
 # Lista de exercícios e aulas feitos em Python na plataforma Curso em Vídeo.
 
-@ Utilizando IDE PyCharm Comunnity 2021.1 e Python 3.8.6.
+@ Utilizando IDE PyCharm Comunnity 2021.1 e Python 3.9.5.
 
 @ O curso conta com 23 aulas teóricas/práticas e 118 aulas de exercícios com resolução. 
 
