@@ -43,12 +43,17 @@ def soma(a, b):
 
 #Programa Principal
 soma(4, 5)
-soma(a = 8, b = 9)
-soma(b = 2, a = 1)
+soma(a=8, b=9)
+soma(b=2, a=1)
 
 print()
 #######################################################################
 def contador(* num):
+    """
+    -> Essa função imprime todos os valores colocados no parâmetro e mostra quantos valores foram impressos
+    :param num: Parâmetros variáveis de números inteiros
+    :return: Não retorna valor
+    """
     tam = len(num)
     print(f'Recebi os valores {num} e são ao todo {tam} números')
 
@@ -69,3 +74,4 @@ def dobra(lst):
 valores = [6, 3, 9, 1, 0, 2]
 dobra(valores)
 print(valores)
+

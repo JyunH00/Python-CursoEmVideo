@@ -54,8 +54,8 @@ print(pessoas.items())
 for k in pessoas.keys():
     print(k)
 
-for k in pessoas.values():
-    print(k)
+for v in pessoas.values():
+    print(v)
 
 del pessoas['sexo']
 
