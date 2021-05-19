@@ -12,4 +12,4 @@
 
 @ Estarei disponibilizando todas as minhas anotações das aulas e minhas resoluções dos 118 exercícios.
 
-@ O Repositório não está completo!
+@ O Repositório está completo!
