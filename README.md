@@ -4,7 +4,7 @@
 
 @ Utilizando IDE PyCharm Comunnity 2021.1 e Python 3.9.5.
 
-@ O curso conta com 23 aulas teóricas/práticas e 118 aulas de exercícios com resolução. 
+@ O curso conta com 23 aulas teóricas/práticas e 115 aulas de exercícios com resolução. 
 
 @ Todas as aulas disponíveis no youtube no canal Curso em Vídeo: https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ ou no site https://www.cursoemvideo.com/.
 
