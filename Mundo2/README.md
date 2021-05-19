@@ -4,4 +4,4 @@
 
 @ O segundo mundo apresenta as estruturas de repetição, muito importantes para qualquer linguagem, o professor explica sobre os comandos if, else, for e while e suas usabilidades.
 
-@ Contém 4 aulas e 36 exercícios
+@ Contém 4 aulas e 36 exercícios.
